@@ -4,7 +4,7 @@
 int main(void) {
     int age = 0;
 
-    age = 37.2;
+    age = 37.2; // compiler will change it to int
 
     printf("%u", age);
 }
